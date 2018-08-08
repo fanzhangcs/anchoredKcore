@@ -16,7 +16,7 @@ run and input the values of 'k' and 'b', such as 5 10 for k=5 and b=10
 
 the program ouputs in result.txt
 
-# Note
+# note
 If you have any question, please contact me by fanzhang.cs@gmail.com.
 
 If you used this code, please kindly cite the paper.
