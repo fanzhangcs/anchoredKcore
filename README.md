@@ -6,7 +6,7 @@ anchoredKcore.cpp - source code
 
 dataset.txt - toy friendship data with 6599 vertices and 20368 edges - data structure: vid \t nid \n...
 
-the data files are a part of the Gowalla dataset from SNAP: https://snap.stanford.edu/data/
+the data file is a part of the Gowalla dataset from SNAP: https://snap.stanford.edu/data/
 
 
 # compile and run
