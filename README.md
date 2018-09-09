@@ -4,7 +4,7 @@ The code is for the OLAK algorithm, published in the paper "OLAK: An Efficient A
 # files
 anchoredKcore.cpp - source code 
 
-dataset.txt - toy friendship data with 6599 vertices and 20368 edges - data structure: vid \t nid \n...
+dataset.txt - toy friendship data with 5403 vertices and 20368 edges - data structure: vid \t nid \n...
 
 the data file is a part of the Gowalla dataset from SNAP: https://snap.stanford.edu/data/
 
